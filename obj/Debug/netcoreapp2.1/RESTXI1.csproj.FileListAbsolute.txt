@@ -1,0 +1,44 @@
+C:\Users\sblanco\Documents\Visual Studio 2017\Projects\RESTXI1\RESTXI1\obj\Debug\netcoreapp2.1\RESTXI1.csproj.CoreCompileInputs.cache
+C:\Users\sblanco\Documents\Visual Studio 2017\Projects\RESTXI1\RESTXI1\obj\Debug\netcoreapp2.1\RESTXI1.AssemblyInfoInputs.cache
+C:\Users\sblanco\Documents\Visual Studio 2017\Projects\RESTXI1\RESTXI1\obj\Debug\netcoreapp2.1\RESTXI1.AssemblyInfo.cs
+C:\Users\sblanco\Documents\Visual Studio 2017\Projects\RESTXI1\RESTXI1\bin\Debug\netcoreapp2.1\RESTXI1.deps.json
+C:\Users\sblanco\Documents\Visual Studio 2017\Projects\RESTXI1\RESTXI1\bin\Debug\netcoreapp2.1\RESTXI1.runtimeconfig.json
+C:\Users\sblanco\Documents\Visual Studio 2017\Projects\RESTXI1\RESTXI1\bin\Debug\netcoreapp2.1\RESTXI1.runtimeconfig.dev.json
+C:\Users\sblanco\Documents\Visual Studio 2017\Projects\RESTXI1\RESTXI1\bin\Debug\netcoreapp2.1\RESTXI1.dll
+C:\Users\sblanco\Documents\Visual Studio 2017\Projects\RESTXI1\RESTXI1\bin\Debug\netcoreapp2.1\RESTXI1.pdb
+C:\Users\sblanco\Documents\Visual Studio 2017\Projects\RESTXI1\RESTXI1\obj\Debug\netcoreapp2.1\RESTXI1.RazorAssemblyInfo.cache
+C:\Users\sblanco\Documents\Visual Studio 2017\Projects\RESTXI1\RESTXI1\obj\Debug\netcoreapp2.1\RESTXI1.RazorAssemblyInfo.cs
+C:\Users\sblanco\Documents\Visual Studio 2017\Projects\RESTXI1\RESTXI1\obj\Debug\netcoreapp2.1\RESTXI1.RazorTargetAssemblyInfo.cache
+C:\Users\sblanco\Documents\Visual Studio 2017\Projects\RESTXI1\RESTXI1\obj\Debug\netcoreapp2.1\RESTXI1.dll
+C:\Users\sblanco\Documents\Visual Studio 2017\Projects\RESTXI1\RESTXI1\obj\Debug\netcoreapp2.1\RESTXI1.pdb
+C:\Users\sblanco\Documents\Visual Studio 2017\Projects\RESTXI1\RESTXI1\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\Google Drive\2019\Programación IX\Clase 2\RESTXI1\RESTXI1\bin\Debug\netcoreapp2.1\RESTXI1.deps.json
+D:\Google Drive\2019\Programación IX\Clase 2\RESTXI1\RESTXI1\bin\Debug\netcoreapp2.1\RESTXI1.runtimeconfig.json
+D:\Google Drive\2019\Programación IX\Clase 2\RESTXI1\RESTXI1\bin\Debug\netcoreapp2.1\RESTXI1.runtimeconfig.dev.json
+D:\Google Drive\2019\Programación IX\Clase 2\RESTXI1\RESTXI1\bin\Debug\netcoreapp2.1\RESTXI1.dll
+D:\Google Drive\2019\Programación IX\Clase 2\RESTXI1\RESTXI1\bin\Debug\netcoreapp2.1\RESTXI1.pdb
+D:\Google Drive\2019\Programación IX\Clase 2\RESTXI1\RESTXI1\obj\Debug\netcoreapp2.1\RESTXI1.csprojAssemblyReference.cache
+D:\Google Drive\2019\Programación IX\Clase 2\RESTXI1\RESTXI1\obj\Debug\netcoreapp2.1\RESTXI1.csproj.CoreCompileInputs.cache
+D:\Google Drive\2019\Programación IX\Clase 2\RESTXI1\RESTXI1\obj\Debug\netcoreapp2.1\RESTXI1.RazorAssemblyInfo.cache
+D:\Google Drive\2019\Programación IX\Clase 2\RESTXI1\RESTXI1\obj\Debug\netcoreapp2.1\RESTXI1.RazorAssemblyInfo.cs
+D:\Google Drive\2019\Programación IX\Clase 2\RESTXI1\RESTXI1\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\Google Drive\2019\Programación IX\Clase 2\RESTXI1\RESTXI1\obj\Debug\netcoreapp2.1\RESTXI1.AssemblyInfoInputs.cache
+D:\Google Drive\2019\Programación IX\Clase 2\RESTXI1\RESTXI1\obj\Debug\netcoreapp2.1\RESTXI1.AssemblyInfo.cs
+D:\Google Drive\2019\Programación IX\Clase 2\RESTXI1\RESTXI1\obj\Debug\netcoreapp2.1\RESTXI1.RazorTargetAssemblyInfo.cache
+D:\Google Drive\2019\Programación IX\Clase 2\RESTXI1\RESTXI1\obj\Debug\netcoreapp2.1\RESTXI1.dll
+D:\Google Drive\2019\Programación IX\Clase 2\RESTXI1\RESTXI1\obj\Debug\netcoreapp2.1\RESTXI1.pdb
+C:\Users\alcom\Google Drive\UDEO\PROGRAMACION IX\RESTXI1\RESTXI1\obj\Debug\netcoreapp2.1\RESTXI1.csproj.CoreCompileInputs.cache
+C:\Users\alcom\Google Drive\UDEO\PROGRAMACION IX\RESTXI1\RESTXI1\obj\Debug\netcoreapp2.1\RESTXI1.RazorAssemblyInfo.cache
+C:\Users\alcom\Google Drive\UDEO\PROGRAMACION IX\RESTXI1\RESTXI1\obj\Debug\netcoreapp2.1\RESTXI1.RazorAssemblyInfo.cs
+C:\Users\alcom\Google Drive\UDEO\PROGRAMACION IX\RESTXI1\RESTXI1\obj\Debug\netcoreapp2.1\RESTXI1.AssemblyInfoInputs.cache
+C:\Users\alcom\Google Drive\UDEO\PROGRAMACION IX\RESTXI1\RESTXI1\obj\Debug\netcoreapp2.1\RESTXI1.AssemblyInfo.cs
+C:\Users\alcom\Google Drive\UDEO\PROGRAMACION IX\RESTXI1\RESTXI1\obj\Debug\netcoreapp2.1\RESTXI1.RazorTargetAssemblyInfo.cache
+C:\Users\alcom\Google Drive\UDEO\PROGRAMACION IX\RESTXI1\RESTXI1\bin\Debug\netcoreapp2.1\RESTXI1.deps.json
+C:\Users\alcom\Google Drive\UDEO\PROGRAMACION IX\RESTXI1\RESTXI1\bin\Debug\netcoreapp2.1\RESTXI1.runtimeconfig.json
+C:\Users\alcom\Google Drive\UDEO\PROGRAMACION IX\RESTXI1\RESTXI1\bin\Debug\netcoreapp2.1\RESTXI1.runtimeconfig.dev.json
+C:\Users\alcom\Google Drive\UDEO\PROGRAMACION IX\RESTXI1\RESTXI1\bin\Debug\netcoreapp2.1\RESTXI1.dll
+C:\Users\alcom\Google Drive\UDEO\PROGRAMACION IX\RESTXI1\RESTXI1\bin\Debug\netcoreapp2.1\RESTXI1.pdb
+C:\Users\alcom\Google Drive\UDEO\PROGRAMACION IX\RESTXI1\RESTXI1\obj\Debug\netcoreapp2.1\RESTXI1.csprojAssemblyReference.cache
+C:\Users\alcom\Google Drive\UDEO\PROGRAMACION IX\RESTXI1\RESTXI1\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\alcom\Google Drive\UDEO\PROGRAMACION IX\RESTXI1\RESTXI1\obj\Debug\netcoreapp2.1\RESTXI1.dll
+C:\Users\alcom\Google Drive\UDEO\PROGRAMACION IX\RESTXI1\RESTXI1\obj\Debug\netcoreapp2.1\RESTXI1.pdb
